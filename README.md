@@ -41,12 +41,18 @@ One potential feasible is proposed. Sentence embedding similarity can be used as
 ### Notes on Reproduction
 
 - Run the codes on GPU mode
+
 - BART/T5 based
+
+  (T5 can be switched to in the training script)
+
   - Train the model: **run_bart_squadv2.py** (run_bart_squadv1.py)
   - Test the model: **test_bart_squadv2.py** (test_bart_squadv1.py)
   - **sent_emb.py**: get sentence embedding of the ground truth and the inference and compare the cosine similarity between them.
   - **nlg_eval.py**: a demo code of using nlg_eval package.
+
 - BERT+RNN based
+
   - Data Prepocessing:
     - cd 'preprocessing/'
     - run **preprocess_data.py**
