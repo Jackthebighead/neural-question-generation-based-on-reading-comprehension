@@ -34,7 +34,7 @@ One potential feasible is proposed. Sentence embedding similarity can be used as
 
 ### Future Work
 
-- Ideas: Involving both automatic metrics and human judgements in the design of loss function.
+- Involving both automatic metrics and human judgements in the design of loss function.
 
 
 
