@@ -44,7 +44,7 @@ One potential feasible is proposed. Sentence embedding similarity can be used as
 
 - BART/T5 based
 
-  (T5 can be switched to in the training script)
+  (**T5 can be switched to in the training script, e.g. train_bart_xxx.py**)
 
   - Train the model: **run_bart_squadv2.py** (run_bart_squadv1.py)
   - Test the model: **test_bart_squadv2.py** (test_bart_squadv1.py)
