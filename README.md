@@ -60,3 +60,6 @@ One potential feasible is proposed. Sentence embedding similarity can be used as
   - Train the model: **run_main.py**
 
 
+### Liscense
+Please refer to: [liscense_Jackthebighead](https://github.com/Jackthebighead/neural-question-generation-based-on-reading-comprehension/blob/master/LICENSE)
+
